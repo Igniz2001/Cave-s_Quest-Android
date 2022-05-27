@@ -1,0 +1,1104 @@
+fileFormatVersion: 2
+guid: 2aca5246358795449b560214fbc48583
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6479318671820661641
+    second: Genesis_32X_SCD_-_Splatterhouse_3_-_Boreworm-removebg-preview_0
+  - first:
+      213: 1939705737394003381
+    second: Genesis_32X_SCD_-_Splatterhouse_3_-_Boreworm-removebg-preview_1
+  - first:
+      213: -7130154430972036921
+    second: Genesis_32X_SCD_-_Splatterhouse_3_-_Boreworm-removebg-preview_2
+  - first:
+      213: 2099347435393648613
+    second: Genesis_32X_SCD_-_Splatterhouse_3_-_Boreworm-removebg-preview_3
+  - first:
+      213: -4620371806507594642
+    second: Genesis_32X_SCD_-_Splatterhouse_3_-_Boreworm-removebg-preview_4
+  - first:
+      213: 1802908906366393483
+    second: Genesis_32X_SCD_-_Splatterhouse_3_-_Boreworm-removebg-preview_5
+  - first:
+      213: 8730542922392540741
+    second: Genesis_32X_SCD_-_Splatterhouse_3_-_Boreworm-removebg-preview_6
+  - first:
+      213: 192959570871048587
+    second: Genesis_32X_SCD_-_Splatterhouse_3_-_Boreworm-removebg-preview_7
+  - first:
+      213: 4782818368516965263
+    second: Genesis_32X_SCD_-_Splatterhouse_3_-_Boreworm-removebg-preview_8
+  - first:
+      213: 2985206658482602122
+    second: Genesis_32X_SCD_-_Splatterhouse_3_-_Boreworm-removebg-preview_9
+  - first:
+      213: 1220127820454013819
+    second: Genesis_32X_SCD_-_Splatterhouse_3_-_Boreworm-removebg-preview_10
+  - first:
+      213: 6038941218628957965
+    second: Genesis_32X_SCD_-_Splatterhouse_3_-_Boreworm-removebg-preview_11
+  - first:
+      213: -5996861671401440173
+    second: Genesis_32X_SCD_-_Splatterhouse_3_-_Boreworm-removebg-preview_12
+  - first:
+      213: -5575090135848326876
+    second: Genesis_32X_SCD_-_Splatterhouse_3_-_Boreworm-removebg-preview_13
+  - first:
+      213: 2925524731998247053
+    second: Genesis_32X_SCD_-_Splatterhouse_3_-_Boreworm-removebg-preview_14
+  - first:
+      213: 7441898917773626316
+    second: Genesis_32X_SCD_-_Splatterhouse_3_-_Boreworm-removebg-preview_15
+  - first:
+      213: -7665522443827771196
+    second: Genesis_32X_SCD_-_Splatterhouse_3_-_Boreworm-removebg-preview_16
+  - first:
+      213: 6376013079868217728
+    second: Genesis_32X_SCD_-_Splatterhouse_3_-_Boreworm-removebg-preview_17
+  - first:
+      213: -1639576830653429674
+    second: Genesis_32X_SCD_-_Splatterhouse_3_-_Boreworm-removebg-preview_18
+  - first:
+      213: 6209431351663815656
+    second: Genesis_32X_SCD_-_Splatterhouse_3_-_Boreworm-removebg-preview_19
+  - first:
+      213: -6939446053319827183
+    second: Genesis_32X_SCD_-_Splatterhouse_3_-_Boreworm-removebg-preview_20
+  - first:
+      213: 6864195232437132908
+    second: Genesis_32X_SCD_-_Splatterhouse_3_-_Boreworm-removebg-preview_21
+  - first:
+      213: -4312206096218907783
+    second: Genesis_32X_SCD_-_Splatterhouse_3_-_Boreworm-removebg-preview_26
+  - first:
+      213: 2129037136485359607
+    second: Genesis_32X_SCD_-_Splatterhouse_3_-_Boreworm-removebg-preview_27
+  - first:
+      213: 7994022548519570287
+    second: Genesis_32X_SCD_-_Splatterhouse_3_-_Boreworm-removebg-preview_31
+  - first:
+      213: 3390799449714964442
+    second: Genesis_32X_SCD_-_Splatterhouse_3_-_Boreworm-removebg-preview_33
+  - first:
+      213: 8006940362195493980
+    second: Genesis_32X_SCD_-_Splatterhouse_3_-_Boreworm-removebg-preview_34
+  - first:
+      213: 860987033435602469
+    second: Genesis_32X_SCD_-_Splatterhouse_3_-_Boreworm-removebg-preview_37
+  - first:
+      213: -4971713113709377140
+    second: Genesis_32X_SCD_-_Splatterhouse_3_-_Boreworm-removebg-preview_45
+  - first:
+      213: -5093583573331716512
+    second: Genesis_32X_SCD_-_Splatterhouse_3_-_Boreworm-removebg-preview_47
+  - first:
+      213: -6399126540216385625
+    second: Genesis_32X_SCD_-_Splatterhouse_3_-_Boreworm-removebg-preview_54
+  - first:
+      213: 4657272034552206887
+    second: Genesis_32X_SCD_-_Splatterhouse_3_-_Boreworm-removebg-preview_55
+  - first:
+      213: -3508645097564964046
+    second: Genesis_32X_SCD_-_Splatterhouse_3_-_Boreworm-removebg-preview_56
+  - first:
+      213: 372264021485005954
+    second: Genesis_32X_SCD_-_Splatterhouse_3_-_Boreworm-removebg-preview_78
+  - first:
+      213: 4166365620462271226
+    second: Genesis_32X_SCD_-_Splatterhouse_3_-_Boreworm-removebg-preview_79
+  - first:
+      213: 6570119209385036482
+    second: Genesis_32X_SCD_-_Splatterhouse_3_-_Boreworm-removebg-preview_80
+  - first:
+      213: 4690706978028767276
+    second: Genesis_32X_SCD_-_Splatterhouse_3_-_Boreworm-removebg-preview_81
+  - first:
+      213: 4335030781405590205
+    second: Genesis_32X_SCD_-_Splatterhouse_3_-_Boreworm-removebg-preview_82
+  - first:
+      213: -3190701528804440940
+    second: Genesis_32X_SCD_-_Splatterhouse_3_-_Boreworm-removebg-preview_102
+  - first:
+      213: 2074620093385373604
+    second: Genesis_32X_SCD_-_Splatterhouse_3_-_Boreworm-removebg-preview_103
+  - first:
+      213: -7351094255123293134
+    second: Genesis_32X_SCD_-_Splatterhouse_3_-_Boreworm-removebg-preview_104
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Genesis_32X_SCD_-_Splatterhouse_3_-_Boreworm-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 426
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77cd2933ff5d416a0800000000000000
+      internalID: -6479318671820661641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis_32X_SCD_-_Splatterhouse_3_-_Boreworm-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 366
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd182657183bea10800000000000000
+      internalID: 1939705737394003381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis_32X_SCD_-_Splatterhouse_3_-_Boreworm-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 366
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c8fb3c725a9c0d90800000000000000
+      internalID: -7130154430972036921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis_32X_SCD_-_Splatterhouse_3_-_Boreworm-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 411
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e704c2ae51622d10800000000000000
+      internalID: 2099347435393648613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis_32X_SCD_-_Splatterhouse_3_-_Boreworm-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 373
+        width: 56
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c82ee525421efb0800000000000000
+      internalID: -4620371806507594642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis_32X_SCD_-_Splatterhouse_3_-_Boreworm-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 366
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c5b5e1918350910800000000000000
+      internalID: 1802908906366393483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis_32X_SCD_-_Splatterhouse_3_-_Boreworm-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 344
+        width: 29
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5461281188e192970800000000000000
+      internalID: 8730542922392540741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis_32X_SCD_-_Splatterhouse_3_-_Boreworm-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 385
+        width: 58
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b89d7c515b78da200800000000000000
+      internalID: 192959570871048587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis_32X_SCD_-_Splatterhouse_3_-_Boreworm-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 394
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f83caa837fbff5240800000000000000
+      internalID: 4782818368516965263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis_32X_SCD_-_Splatterhouse_3_-_Boreworm-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 344
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a808cfbb3a59d6920800000000000000
+      internalID: 2985206658482602122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis_32X_SCD_-_Splatterhouse_3_-_Boreworm-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 344
+        width: 48
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7babb6c9c3cee010800000000000000
+      internalID: 1220127820454013819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis_32X_SCD_-_Splatterhouse_3_-_Boreworm-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 380
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d07f7dbea01aec350800000000000000
+      internalID: 6038941218628957965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis_32X_SCD_-_Splatterhouse_3_-_Boreworm-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 350
+        width: 67
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c36f4251ed6cca0800000000000000
+      internalID: -5996861671401440173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis_32X_SCD_-_Splatterhouse_3_-_Boreworm-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 369
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429e9fd3f0d41a2b0800000000000000
+      internalID: -5575090135848326876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis_32X_SCD_-_Splatterhouse_3_-_Boreworm-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 283
+        width: 26
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8810606e3d899820800000000000000
+      internalID: 2925524731998247053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis_32X_SCD_-_Splatterhouse_3_-_Boreworm-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 283
+        width: 41
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccbc24803afe64760800000000000000
+      internalID: 7441898917773626316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis_32X_SCD_-_Splatterhouse_3_-_Boreworm-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 283
+        width: 51
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c88cd573f79e9590800000000000000
+      internalID: -7665522443827771196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis_32X_SCD_-_Splatterhouse_3_-_Boreworm-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 283
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0891ac45d162c7850800000000000000
+      internalID: 6376013079868217728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis_32X_SCD_-_Splatterhouse_3_-_Boreworm-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 283
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65801f23f8d0f39e0800000000000000
+      internalID: -1639576830653429674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis_32X_SCD_-_Splatterhouse_3_-_Boreworm-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 305
+        width: 68
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb68155ae45c2650800000000000000
+      internalID: 6209431351663815656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis_32X_SCD_-_Splatterhouse_3_-_Boreworm-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 305
+        width: 69
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 111a2edc49222bf90800000000000000
+      internalID: -6939446053319827183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis_32X_SCD_-_Splatterhouse_3_-_Boreworm-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 305
+        width: 71
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e58522235824f50800000000000000
+      internalID: 6864195232437132908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis_32X_SCD_-_Splatterhouse_3_-_Boreworm-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 239
+        width: 82
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b199c0767f724c0800000000000000
+      internalID: -4312206096218907783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis_32X_SCD_-_Splatterhouse_3_-_Boreworm-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 241
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff13d9defbdb8d10800000000000000
+      internalID: 2129037136485359607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis_32X_SCD_-_Splatterhouse_3_-_Boreworm-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 232
+        width: 56
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6bc8fa572970fe60800000000000000
+      internalID: 7994022548519570287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis_32X_SCD_-_Splatterhouse_3_-_Boreworm-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 216
+        width: 54
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7b9d0622a8e0f20800000000000000
+      internalID: 3390799449714964442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis_32X_SCD_-_Splatterhouse_3_-_Boreworm-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 219
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c54666a36dd5e1f60800000000000000
+      internalID: 8006940362195493980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis_32X_SCD_-_Splatterhouse_3_-_Boreworm-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 215
+        width: 72
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e752c2527d2fb00800000000000000
+      internalID: 860987033435602469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis_32X_SCD_-_Splatterhouse_3_-_Boreworm-removebg-preview_45
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 142
+        width: 50
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c89833ca34de00bb0800000000000000
+      internalID: -4971713113709377140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis_32X_SCD_-_Splatterhouse_3_-_Boreworm-removebg-preview_47
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 142
+        width: 53
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0665ccd1ab4ff49b0800000000000000
+      internalID: -5093583573331716512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis_32X_SCD_-_Splatterhouse_3_-_Boreworm-removebg-preview_54
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 142
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7afb0a1d05cb137a0800000000000000
+      internalID: -6399126540216385625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis_32X_SCD_-_Splatterhouse_3_-_Boreworm-removebg-preview_55
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 142
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72658d97d34f1a040800000000000000
+      internalID: 4657272034552206887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis_32X_SCD_-_Splatterhouse_3_-_Boreworm-removebg-preview_56
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 142
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b79b49fd9ce4fc0800000000000000
+      internalID: -3508645097564964046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis_32X_SCD_-_Splatterhouse_3_-_Boreworm-removebg-preview_78
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 66
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ca54bb72c8a2500800000000000000
+      internalID: 372264021485005954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis_32X_SCD_-_Splatterhouse_3_-_Boreworm-removebg-preview_79
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 66
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afabd0c1577e1d930800000000000000
+      internalID: 4166365620462271226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis_32X_SCD_-_Splatterhouse_3_-_Boreworm-removebg-preview_80
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 66
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca8d576c90cd2b50800000000000000
+      internalID: 6570119209385036482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis_32X_SCD_-_Splatterhouse_3_-_Boreworm-removebg-preview_81
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 66
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c28c9d2e42db81140800000000000000
+      internalID: 4690706978028767276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis_32X_SCD_-_Splatterhouse_3_-_Boreworm-removebg-preview_82
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 66
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db27018178f192c30800000000000000
+      internalID: 4335030781405590205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis_32X_SCD_-_Splatterhouse_3_-_Boreworm-removebg-preview_102
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 16
+        width: 57
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 494c0575dd958b3d0800000000000000
+      internalID: -3190701528804440940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis_32X_SCD_-_Splatterhouse_3_-_Boreworm-removebg-preview_103
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 12
+        width: 69
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a77f1eabf78acc10800000000000000
+      internalID: 2074620093385373604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis_32X_SCD_-_Splatterhouse_3_-_Boreworm-removebg-preview_104
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 11
+        width: 54
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c16f409baabf990800000000000000
+      internalID: -7351094255123293134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
